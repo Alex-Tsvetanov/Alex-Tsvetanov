@@ -7,7 +7,7 @@ I am a developer, an analyst, and an entrepreneur. When it comes to eSports, I a
 - 👯 I’m looking to collaborate with Riot Games
 - 🤔 I’m looking for help with eSports
 - 💬 Ask me about anything
-- 📫 How to reach me: alex_tsvetanov_2002@abv.bg or [+359988329931](tel:+359988329931)
+- 📫 How to reach me: alex_tsvetanov_2002@abv.bg or +359988329931
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: Yes, I do have a girlfriend
 - ⚡ Check more about me at: https://alex-tsvetanov.github.io/
