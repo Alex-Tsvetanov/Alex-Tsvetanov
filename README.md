@@ -1,13 +1,26 @@
 ### Hi, I am Alex "Coder of worlds" Tsvetanov 👋
 
-I am a developer, an analyst, and an entrepreneur. When it comes to eSports, I am a color caster, a LoL player, and a professional team coach.
+I am:
+- a developer at PokerStars
+- an analyst for the League of legends team 5M Esports (playing in Prime League div 3 and NLC div 4)
+- an entrepreneur having a couple of startups and big projects in IT and education.
+
+When it comes to eSports, I am:
+- a color caster
+- a LoL player - Jungler aka blame me for everything and I will fix it
+- a professional team coach and analyst for team 5M Esports - Prime League div 3 and NLC div 4.
 
 - 🔭 I’m currently working on the best performing so far C++ Web Framework
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with Riot Games
 - 🤔 I’m looking for help with eSports
 - 💬 Ask me about anything
-- 📫 How to reach me: alex_tsvetanov_2002@abv.bg or +359988329931
+- 📫 How to reach me: 
+  - alex_tsvetanov_2002@abv.bg
+  - +359988329931
+  - LinkedIn: [@Alex-Tsvetanov](https://www.linkedin.com/in/alex-tsvetanov/)
+  - Twitter: [@AlexTsvetanovIT](https://twitter.com/AlexTsvetanovIT) for IT or [@coder_of_worlds](https://twitter.com/coder_of_worlds) for eSports
+  - Facebook: [@Alex Tsvetanov](https://www.facebook.com/alex.tsvetanov.2002)
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: Yes, I do have a girlfriend
 - ⚡ Check more about me at: https://alex-tsvetanov.github.io/
@@ -26,3 +39,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
