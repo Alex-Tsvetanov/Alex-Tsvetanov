@@ -1,6 +1,6 @@
 ### <div align="center">Hi👋, I'm Alex, a full-time full-stack engineer👨‍💻working in the industry since 2018 🚀</div>               
 
-I am 21 years old and I am devloping tools, libraries, and software for over a decade now. I am looking to learn new things every day and not to waste a single minute of my life. I have no problems dealing with the university, work, and side projects all at once. This hunger for new experiences, projects, and knowledge are ever-lastng and will be like that for a quite some time moving forward.  
+I am 22 years old and I am devloping tools, libraries, and software for over a decade now. I am looking to learn new things every day and not to waste a single minute of my life. I have no problems dealing with the university, work, and side projects all at once. This hunger for new experiences, projects, and knowledge are ever-lastng and will be like that for a quite some time moving forward.  
   
 - 🔭 I’m currently working on the best performing so far C++ Web Framework - [WebFrame](https://github.com/cpp-for-everything/WebFrame). I am planning to make it the only library to develop cross-platform Web and Mobile applications. How? You will see.
 
